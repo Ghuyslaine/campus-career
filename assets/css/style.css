@@ -1,0 +1,24 @@
+body {
+  font-family: 'Lato', sans-serif;
+  color: black;
+  position:relative;
+  background-image: url('img/campuscareer.png');
+background-size: cover;
+}
+.image_ghuyslaine
+{
+  text-align: center;
+  height: 100px;
+  width: 100px;
+  border-radius: 50%;
+  display: flex;
+  justify-content: flex-start;
+}
+h1{text-align: center;
+height: 105px;
+font-size: 5em;
+}
+h2{text-align: center;
+font-size: 3em}
+h3{text-align: center;
+font-size: 3em}
